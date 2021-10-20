@@ -10,6 +10,8 @@ https://docs.python.org/es/3/tutorial/venv.html
 
 * In cmd execute pip install -r requirements.txt command
 
+* Download the webdriver depending on the operating system and place it in the Drivers folder
+
 ## Executing Tests ⚙️
 
 To run any feature you need execute 
