@@ -18,6 +18,13 @@ To run any feature you need execute
 
 [behave -f allure_behave.formatter:AllureFormatter -o results folder site_tests/behave/features/feature name.feature]
 
+## Executing exercise
+
+In a cmd locate the folder where the algorithm_problem.py file is located then
+
+run python algorithm_problem.py "string to check"
+
+
 ### To see Report
 
 If you want to see report, you need execute [allure serve results folder]
